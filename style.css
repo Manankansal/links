@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://www.saveyourlinks.com/wp-content/uploads/2020/10/links-content-sharing-ss-1920-800x563-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#container{
+    text-align: left;
+}
+#links{
+    float:left;
+}
